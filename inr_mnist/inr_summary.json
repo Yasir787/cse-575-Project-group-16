@@ -1,0 +1,7 @@
+{
+  "log": "inr_mnist\\clf_log.csv",
+  "threshold": 0.9,
+  "epoch_to_threshold": null,
+  "best_val_acc": 0.15,
+  "last_val_acc": 0.075
+}
